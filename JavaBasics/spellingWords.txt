@@ -1,0 +1,6 @@
+cat, sounds/Cat.wav
+inheritance, sounds/Inheritance.wav
+pedagogy, sounds/Pedagogy.wav
+keratotomy, sounds/Keratotomy.wav
+prospection, sounds/Prospection.wav
+curmudgeon, sounds/Curmudgeon.wav
